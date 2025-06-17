@@ -62,7 +62,8 @@ section{
   align-items: center;
 }
 a:visited{
-  color:red
+  color:red;
+  text-align:center;
 }
 body {
   background-color: #eae2b7;
