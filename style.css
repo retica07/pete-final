@@ -70,4 +70,14 @@ body {
 }
 a:link { color: #d62828 } ;
 a:hover { color: #f77f00};
-a{text-align: center;}
+.contact-me, about-me-text {
+  width: 300px; 
+  margin: 0 auto; /* Centers the div horizontally */
+  text-align: center;
+}
+
+ul{
+  display: inline-block;
+  text-align: left;
+}
+
